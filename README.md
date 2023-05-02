@@ -11,4 +11,4 @@ https://www.youtube.com/watch?v=4mRae9N2pU4&t=122s 유튜브 영상 참조
 
 # 웹 접속
 github-pages
-
+https://sharpyh.github.io/Mid-Term-Project/diffuso-html/index.html
